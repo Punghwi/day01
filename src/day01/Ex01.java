@@ -10,6 +10,7 @@ public class Ex01 {
 		System.out.print("출력");
 		System.out.println("합니다");
 		System.out.println("학원에서 추가");
+		System.out.println("집에서 추가");
 		//ctrl + alt + 방향키 테스트
 		//ctrl + alt + 방향키 테스트
 		//ctrl + alt + 방향키 테스트
