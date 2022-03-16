@@ -8,7 +8,8 @@ public class Ex01 {
 		System.out.println("자바시간입니다");
 		
 		System.out.print("출력");
-		System.out.print("합니다");
+		System.out.println("합니다");
+		System.out.println("집에서 추가");
 		//ctrl + alt + 방향키 테스트
 		//ctrl + alt + 방향키 테스트
 		//ctrl + alt + 방향키 테스트
